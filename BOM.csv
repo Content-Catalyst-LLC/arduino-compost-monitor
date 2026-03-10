@@ -1,0 +1,10 @@
+Component,Example,Qty,Notes
+Arduino Uno,ATmega328P,1,Arduino Nano also acceptable
+DS18B20 Waterproof Temperature Sensor,Waterproof probe,1,Recommended for internal compost temperature
+DHT22 Sensor,Ambient temperature and humidity,1,Optional
+Capacitive Moisture Sensor,Analog moisture proxy sensor,1,Use cautiously in wet compost environments
+Resistor,10kΩ,1,Pull-up resistor for DS18B20 data line
+Breadboard,Standard,1,Optional depending on assembly method
+Jumper Wires,Male/Female,10,As needed
+Power Supply,Stable 5V,1,Required for reliable sensing
+Enclosure,Dry housing,1,Recommended for outdoor or semi-outdoor deployment
